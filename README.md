@@ -4,4 +4,4 @@ Experiments visualizing MITH's project history as a graph.
 2. turn the two-mode graph into two one-mode graphs with `project_graphs.py`
 3. load the `people.csv` and `projects.csv` into Cytoscape or Fusion Tables.
 
-<img src="">
+<img src="https://raw.githubusercontent.com/umd-mith/mithgraph/master/people.png">
