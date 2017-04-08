@@ -8,5 +8,5 @@ Experiments visualizing MITH's project history as a graph.
    [Cytoscape](http://cytoscape.org/) or 
    [Fusion Tables](https://fusiontables.google.com/).
 
-<a href="peop.epng?raw=true"><img src="people.png?raw=true"></a>
+<a href="people.png?raw=true"><img src="people.png?raw=true"></a>
 
